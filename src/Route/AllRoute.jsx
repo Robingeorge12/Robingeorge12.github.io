@@ -1,4 +1,5 @@
 import { Route, Routes } from "react-router-dom";
+import Test from "../Components/Test";
 import About from "./About";
 import Contact from "./Contact";
 import Home from "./Home";
@@ -16,6 +17,7 @@ export default function AllRoute()
                 <Route path={"/skill"} element={<Skill />} />
                 <Route path={"/project"} element={<Project />} />
                 <Route path={"/contact"} element={<Contact />} />
+                {/* <Route path="/test" element={<Contact />} /> */}
             </Routes>
         </div>
     )
