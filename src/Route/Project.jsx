@@ -30,8 +30,8 @@ export default function Project() {
 
                             </Box>
                             <HStack>
-                               <Box ml="60px"><Link href="https://github.com/Avdhoot-Kurhe/indianMART_Site"><Button bgColor="red.300" color="white">CODE <Text><BsGithub /></Text> </Button></Link></Box> 
-                               <Box mr="-20px"> <Link href="https://idyllic-elf-19b91b.netlify.app/"><Button bgColor="red.300" color="white">LIVE <Text ><GoLinkExternal /></Text></Button></Link></Box> 
+                               <Box ml="60px" pr={4}><Link href="https://github.com/Avdhoot-Kurhe/indianMART_Site"><Button bgColor="red.300" color="white">CODE <Text><BsGithub /></Text> </Button></Link></Box> 
+                               <Box mr="-20px" pl={4}> <Link href="https://idyllic-elf-19b91b.netlify.app/"><Button bgColor="red.300" color="white">LIVE <Text ><GoLinkExternal /></Text></Button></Link></Box> 
 
                             </HStack>
                         </Box>
@@ -51,8 +51,8 @@ export default function Project() {
                                 
                             </Box>
                             <HStack >
-                            <Box ml="60px"><Link href="https://github.com/Robingeorge12/capable-downtown-7255"><Button bgColor="red.300" color="white">CODE <Text><BsGithub /></Text> </Button></Link></Box>
-                            <Box mr="60px"><Link href="https://capable-downtown-7255.vercel.app/"><Button bgColor="red.300" color="white">LIVE <Text><GoLinkExternal /></Text></Button></Link></Box>
+                            <Box ml="60px" pr={4}><Link href="https://github.com/Robingeorge12/capable-downtown-7255"><Button bgColor="red.300" color="white">CODE <Text><BsGithub /></Text> </Button></Link></Box>
+                            <Box mr="60px" pl={4}><Link href="https://capable-downtown-7255.vercel.app/"><Button bgColor="red.300" color="white">LIVE <Text><GoLinkExternal /></Text></Button></Link></Box>
                             </HStack>
                         </Box>
                     </VStack>
@@ -71,8 +71,8 @@ export default function Project() {
                             </Box>
                             <HStack>
 
-                            <Box ml="60px"> <Link href="https://github.com/Lalitsingh28/GEARBEST_CLONE"><Button bgColor="red.300" color="white">CODE <Text><BsGithub /></Text> </Button></Link></Box>
-                            <Box mr="60px"><Link href="https://stunning-duckanoo-e6ea7b.netlify.app/" ><Button bgColor="red.300" color="white">LIVE <Text ><GoLinkExternal /></Text></Button></Link></Box>
+                            <Box ml="60px" pr={4}> <Link href="https://github.com/Lalitsingh28/GEARBEST_CLONE"><Button bgColor="red.300" color="white" >CODE <Text ><BsGithub /></Text> </Button></Link></Box>
+                            <Box mr="60px" pl={4}><Link href="https://stunning-duckanoo-e6ea7b.netlify.app/" ><Button bgColor="red.300" color="white" mr={3}>LIVE <Text ><GoLinkExternal /></Text></Button></Link></Box>
                             </HStack>
                         </Box>
                     </VStack>

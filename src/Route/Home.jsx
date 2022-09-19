@@ -27,7 +27,7 @@ export default function Home() {
             <Text textAlign="center" textColor="white" fontFamily="sans-serif" fontWeight={["800"]} fontSize={["25px", "30px", "35px"]}>Hi !</Text>
             <Text textAlign="center" textColor="white" fontSize={["20px", "25px", "30px"]}>I am </Text> <Text textAlign="center" textColor="red" fontFamily="fantasy" fontSize={["24px", "28px", "35px"]}>Robin George</Text>
             <Text textAlign="center" textColor="white" fontSize={["18px", "22px", "26px"]}>Full Stack Web Developer</Text>
-            <Link href="https://i.ibb.co/30TydSS/Robin-George-Resume.jpg"><Button m="10px" textColor="white" bgColor="blue.200"> RESUME</Button></Link>
+            <Link href="Robin_George_Resume.pdf" download="Robin_George_Resume.pdf"><Button m="10px" textColor="white" bgColor="blue.200"> RESUME</Button></Link>
 
           </Box>
 
