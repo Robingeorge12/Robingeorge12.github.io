@@ -9,6 +9,7 @@ import Contact from './Route/Contact';
 import { Box } from '@chakra-ui/react';
 import Navbar from './Components/Navbar';
 import GithubCal from './Components/GithubCal';
+import Statics from './Components/Statics';
 
 
 
@@ -22,6 +23,7 @@ function App() {
    <AllRoute />
    <Box><About /></Box>
    <GithubCal />
+   <Statics />
         <Box><Skill /></Box>
         <Box><Project /></Box>
         <Box> <Contact /></Box>
