@@ -10,6 +10,7 @@ import { Box } from '@chakra-ui/react';
 import Navbar from './Components/Navbar';
 import GithubCal from './Components/GithubCal';
 import Statics from './Components/Statics';
+import SoftSkills from './Components/SoftSkills';
 
 
 
@@ -24,6 +25,7 @@ function App() {
    <Box><About /></Box>
    <GithubCal />
    <Statics />
+   <SoftSkills />
         <Box><Skill /></Box>
         <Box><Project /></Box>
         <Box> <Contact /></Box>
