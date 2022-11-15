@@ -23,10 +23,11 @@ function App() {
  <Navbar/>
    <AllRoute />
    <Box><About /></Box>
-   <GithubCal />
+   {/* <GithubCal /> */}
    <Statics />
    <SoftSkills />
         <Box><Skill /></Box>
+        <GithubCal />
         <Box><Project /></Box>
         <Box> <Contact /></Box>
        
