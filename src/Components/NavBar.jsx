@@ -121,7 +121,7 @@ function Navbar() {
               CONTACT
             </Link>
             <a href={Robin_George_Resume} download>
-              <Button textColor="white" bgColor="black">
+              <Button textColor="white" onClick={()=>{window.open(Robin_George_Resume)}} bgColor="black">
                 RESUME</Button>
             </a>
 
@@ -234,7 +234,7 @@ function Navbar() {
               </Link>
 
               <a href={Robin_George_Resume}  download>
-              <Button textColor="white" bgColor="black">
+              <Button textColor="white" onClick={()=>{window.open(Robin_George_Resume)}} bgColor="black">
                  RESUME</Button>
                  </a>
 

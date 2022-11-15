@@ -70,9 +70,9 @@ export default function Project() {
                                 <Text mt="25px" textColor="white">* HTML | CSS3 | JAVASCRIPT </Text>
                             </Box>
                             <HStack>
-
+{/* //https://gearbest-iflh.vercel.app/" */}
                             <Box ml="70px" mr={4}> <Link href="https://github.com/Lalitsingh28/GEARBEST_CLONE"><Button bgColor="red.300" color="white" >CODE <Text pl={2}><BsGithub /></Text> </Button></Link></Box>
-                            <Box mr="60px" ><Link href="https://gearbest-iflh.vercel.app/" ><Button bgColor="red.300" color="white" >LIVE <Text pl={2}><GoLinkExternal /></Text></Button></Link></Box>
+                            <Box mr="60px" ><Link href="" ><Button bgColor="red.300" color="white" >LIVE <Text pl={2}><GoLinkExternal /></Text></Button></Link></Box>
                             </HStack>
                         </Box>
                     </VStack>
