@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.a8166c2b.css",
-    "main.js": "/static/js/main.8778c7e3.js",
+    "main.js": "/static/js/main.82dbb9e4.js",
     "static/media/Robin_George_Resume.pdf": "/static/media/Robin_George_Resume.7c1a2d3f0d11e3df5b8f.pdf",
     "static/media/image1.png": "/static/media/image1.383134d79b5a4eb04fb6.png",
     "index.html": "/index.html",
     "main.a8166c2b.css.map": "/static/css/main.a8166c2b.css.map",
-    "main.8778c7e3.js.map": "/static/js/main.8778c7e3.js.map"
+    "main.82dbb9e4.js.map": "/static/js/main.82dbb9e4.js.map"
   },
   "entrypoints": [
     "static/css/main.a8166c2b.css",
-    "static/js/main.8778c7e3.js"
+    "static/js/main.82dbb9e4.js"
   ]
 }
