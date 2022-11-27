@@ -85,8 +85,8 @@ export default function Project() {
                             </Box> */}
                             <HStack>
 
-                                <Box ml="70px" mr={4}> <Link href="https://github.com/Lalitsingh28/GEARBEST_CLONE"><Button bgColor="red.300" color="white" >CODE <Text pl={2}><BsGithub /></Text> </Button></Link></Box>
-                                <Box mr="60px" ><Link href="https://gearbest-iflh.vercel.app/" ><Button bgColor="red.300" color="white" >LIVE <Text pl={2}><GoLinkExternal /></Text></Button></Link></Box>
+                                <Box ml="70px" mr={4}> <Link href="https://github.com/Avdhoot-Kurhe/indianMART_Site"><Button bgColor="red.300" color="white" >CODE <Text pl={2}><BsGithub /></Text> </Button></Link></Box>
+                                <Box mr="60px" ><Link href="https://idyllic-elf-19b91b.netlify.app/" ><Button bgColor="red.300" color="white" >LIVE <Text pl={2}><GoLinkExternal /></Text></Button></Link></Box>
                             </HStack>
                         </Box>
                     </VStack>

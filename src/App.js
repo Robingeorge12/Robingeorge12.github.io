@@ -14,7 +14,6 @@ import SoftSkills from './Components/SoftSkills';
 
 
 
-
 function App() {
   return (
     <div className="App">
