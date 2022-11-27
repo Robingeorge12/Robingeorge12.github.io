@@ -23,8 +23,8 @@ export default function Project() {
                                 <Text textColor="red.300">BETTER MART.COM</Text>
                                 <Box w={["250px", "260px", "320px"]} ml="12px" pb="10px">
                                     <Text align="left" textColor="white">
-                                    Better Mart is a clone of an E-Commerce website that mainly sells household items. </Text>
-                                    <Text align="left" textColor="white">A collaborative project built by a team of 5, executed in 5 days.</Text>
+                                Better Mart is a clone of an E-Commerce website that mainly sells household items. </Text>
+                                    <Text align="left" textColor="white">* A collaborative project built by a team of 5, executed in 5 days.</Text>
                                 </Box>
                                 <Text textColor="white">* MONGO DB | EXPRESS | NODE JS | REACT | REDUX | CHAKRA UI </Text>
 
@@ -44,8 +44,8 @@ export default function Project() {
                             <Box>
                                 <Text textColor="red.300">SHINE.COM</Text>
                                 <Box w={["250px", "260px", "320px"]} ml="12px" pb="10px">
-                                    <Text align="left" textColor="white">Shine.com is a job career guidace and job searching website</Text>
-                                    <Text textColor="white" align="left">An individual mini project, completed in 4 days.</Text>
+                                    <Text align="left" textColor="white">Shine.com is a job career guidace and job searching website.</Text>
+                                    <Text textColor="white" align="left">* An individual mini project, completed in 4 days.</Text>
                                 </Box>
                                 <Text mt="25px" textColor="white">*  HTML | CSS3 | REACT JS </Text>
 
@@ -67,7 +67,7 @@ export default function Project() {
                                 <Box w={["250px", "260px", "320px"]} ml="12px" pb="10px">
                                     <Text align="left" textColor="white">
                                         IndiaMart.com is known for its unparalleled assortment of pharmaceuticals and cosmetics products. </Text>
-                                    <Text align="left" textColor="white">A collaborative project built by a team of 5, executed in 5 days.</Text>
+                                    <Text align="left" textColor="white">* A collaborative project built by a team of 5, executed in 5 days.</Text>
                                 </Box>
                                 <Text textColor="white">* HTML | CSS | JAVASCRIPTS</Text>
 

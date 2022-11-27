@@ -121,7 +121,7 @@ function Navbar() {
               CONTACT
             </Link>
             <a href={Robin_George_Resume} download>
-              <Button textColor="white" onClick={()=>{window.open(Robin_George_Resume)}} bgColor="black">
+              <Button textColor="white" onClick={() => { window.open(Robin_George_Resume) }} bgColor="black">
                 RESUME</Button>
             </a>
 
@@ -206,14 +206,14 @@ function Navbar() {
                 SKILLS
               </Link>
               <Link
-                to="project"
+                to="projects"
                 smooth={true}
                 duration={1000}
                 spy={true}
                 // offset={50}
                 activeClass={styles.active}
               >
-                PROJECTS
+                PROJECT
               </Link>
 
               {/* <Link href="Robin_George_Resume.pdf" download="Robin_George_Resume.pdf">
@@ -223,7 +223,7 @@ function Navbar() {
               </Link> */}
 
               <Link
-
+                to="contact"
                 smooth={true}
                 duration={1000}
                 spy={true}
@@ -233,10 +233,10 @@ function Navbar() {
                 CONTACT
               </Link>
 
-              <a href={Robin_George_Resume}  download>
-              <Button textColor="white" onClick={()=>{window.open(Robin_George_Resume)}} bgColor="black">
-                 RESUME</Button>
-                 </a>
+              <a href={Robin_George_Resume} download>
+                <Button textColor="white" onClick={() => { window.open(Robin_George_Resume) }} bgColor="black">
+                  RESUME</Button>
+              </a>
 
             </VStack>
           </DrawerBody>

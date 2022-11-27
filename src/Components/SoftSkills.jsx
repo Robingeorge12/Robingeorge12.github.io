@@ -19,7 +19,7 @@ const SoftSkills = () => {
                 <Text p={5} fontSize={["20px", "25px", "30px"]} textColor="antiquewhite" fontWeight={["700", "700", "700"]} fontFamily="Georgia, 'Times New Roman', Times, serif">SOFT SKILLS</Text>
                 <SimpleGrid columns={[1, 1, 3, 5]} gap={"6"}>
                     <VStack  >
-                        <Image w={["300px","250px","200px"]} h="150px" src="https://www.marketing91.com/wp-content/uploads/2020/06/What-is-Team-Player.jpg" alt="" />
+                        <Image w={["300px","250px","200px"]} h="150px" src="https://t4.ftcdn.net/jpg/02/11/39/51/360_F_211395193_ILTeSLFdGh1LIVxYwCcjGLcUCDBxiwTr.jpg" alt="" />
                         <Text>Team Player</Text>
                     </VStack>
 
